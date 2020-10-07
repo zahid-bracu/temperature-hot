@@ -1,2 +1,2 @@
 
-[Live Demo](https://zahid-bracu.github.io/temperature-hot/)
+[Live Demo](https://weather-app-1995.netlify.app/)
